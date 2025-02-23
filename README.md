@@ -1,4 +1,4 @@
-create a folder
+create a folder \n
 open the folder in vscode
 open a terminal
 git clone https://github.com/esimo13/epileptic_seizure_prediction.git
