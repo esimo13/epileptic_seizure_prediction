@@ -1,3 +1,23 @@
+🧠 Epileptic Seizure Prediction App
+An AI-powered web application that predicts epileptic seizure states (Interictal, Preictal, Ictal) based on EEG data. Built with a Python-based machine learning backend and a modern React/Next.js frontend.
+
+🚀 Features
+Predicts seizure states from EEG data:
+
+Interictal – Normal brain activity
+
+Preictal – Seizure warning with severity levels (Low, Moderate, High)
+
+Ictal – Seizure occurring
+
+Real-time prediction interface
+
+Clean UI built with Next.js and Tailwind CSS
+
+Backend powered by Flask + ML models
+
+
+
 create a folder <br>
 open the folder in vscode<br>
 open a terminal<br>
