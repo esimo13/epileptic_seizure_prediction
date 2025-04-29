@@ -52,7 +52,7 @@ A full-stack web application that predicts epileptic seizure states (Interictal,
 ![Preprocessing Preview](./assets/highEmergencyActions.png)
 
 ### 📈 lowEmergencyActions Page
-![Graph Visualization](./assets/landingPage.png)
+![Graph Visualization](./assets/lowEmergencyActions.png)
 
 ### ⚙️ moderateEmergencyActions Page
 ![Settings Page](./assets/moderateEmergencyActions.png)
