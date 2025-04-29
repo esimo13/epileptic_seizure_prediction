@@ -28,10 +28,35 @@ A full-stack web application that predicts epileptic seizure states (Interictal,
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-![Prediction Screenshot](./assets/screenshot.png)  
-*Real-time seizure state prediction interface.*
+### 🖥️ Home Page
+![Home Page](./assets/landingPage.png)
+
+### 🧠 ictalPredictAlert Page
+![Prediction Result](./assets/ictalPredictAlert.png)
+
+### 📊 interictalPredictAlert Page
+![Admin Dashboard](./assets/interictalPredictAlert.png)
+
+### 🔒 preictalPredictAlertHigh Page
+![Login Page](./assets/preictalPredictAlertHigh.png)
+
+### 📝 preictalPredictAlertLow Page
+![Input Form](./assets/preictalPredictAlertLow.png)
+
+### 📁 preictalPredictAlertModerate Page
+![File Upload](./assets/preictalPredictAlertModerate.png)
+
+### 🧪 highEmergencyActions Page
+![Preprocessing Preview](./assets/highEmergencyActions.png)
+
+### 📈 lowEmergencyActions Page
+![Graph Visualization](./assets/lowEmergencyActions.png)
+
+### ⚙️ moderateEmergencyActions Page
+![Settings Page](./assets/moderateEmergencyActions.png)
+
 
 ---
 
