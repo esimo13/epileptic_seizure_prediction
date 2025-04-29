@@ -24,7 +24,6 @@ A full-stack web application that predicts epileptic seizure states (Interictal,
 - Real-time input and results
 - ML-powered backend (Flask)
 - Modern and responsive frontend (Next.js + Tailwind CSS)
-- Dockerized setup for simplified deployment
 - Clean API integration between frontend and backend
 
 ---
@@ -48,7 +47,7 @@ A full-stack web application that predicts epileptic seizure states (Interictal,
 - **EEG data preprocessing**
 
 ### Deployment:
-- **Docker**, **Nginx**, **Render/Netlify**
+-  **Render/Netlify**
 
 ---
 
