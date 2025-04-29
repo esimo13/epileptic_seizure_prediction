@@ -37,7 +37,7 @@ A full-stack web application that predicts epileptic seizure states (Interictal,
 ![Prediction Result](./assets/ictalPredictAlert.png)
 
 ### 📊 interictalPredictAlert Page
-![Admin Dashboard](./assets/interictalPredictAlert.png)
+![Admin Dashboard](./assets/interIctalPredictAlert.png)
 
 ### 🔒 preictalPredictAlertHigh Page
 ![Login Page](./assets/preictalPredictAlertHigh.png)
