@@ -1,20 +1,64 @@
-🧠 Epileptic Seizure Prediction App
-An AI-powered web application that predicts epileptic seizure states (Interictal, Preictal, Ictal) based on EEG data. Built with a Python-based machine learning backend and a modern React/Next.js frontend.
+# 🧠 Epileptic Seizure Prediction App
 
-🚀 Features
-Predicts seizure states from EEG data:
+A full-stack web application that predicts epileptic seizure states (Interictal, Preictal, Ictal) from EEG signals using a trained machine learning model. Designed for early warning and monitoring, combining AI and intuitive UX.
 
-Interictal – Normal brain activity
+---
 
-Preictal – Seizure warning with severity levels (Low, Moderate, High)
+## 📋 Table of Contents
 
-Ictal – Seizure occurring
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Live Demo](#live-demo)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-Real-time prediction interface
+---
 
-Clean UI built with Next.js and Tailwind CSS
+## 🚀 Features
 
-Backend powered by Flask + ML models
+- EEG-based seizure state prediction
+- Output states: `Interictal`, `Preictal` (with severity level), and `Ictal`
+- Real-time input and results
+- ML-powered backend (Flask)
+- Modern and responsive frontend (Next.js + Tailwind CSS)
+- Dockerized setup for simplified deployment
+- Clean API integration between frontend and backend
+
+---
+
+## 🖼️ Screenshots
+
+![Prediction Screenshot](./assets/screenshot.png)  
+*Real-time seizure state prediction interface.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- **Next.js** (React)
+- **Tailwind CSS**
+
+### Backend:
+- **Flask (Python)**
+- **Scikit-learn / joblib (.pkl ML model)**
+- **EEG data preprocessing**
+
+### Deployment:
+- **Docker**, **Nginx**, **Render/Netlify**
+
+---
+
+## 🧑‍💻 Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/seizure-predictor.git
+cd seizure-predictor
+
 
 
 
